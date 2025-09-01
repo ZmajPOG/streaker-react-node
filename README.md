@@ -1,6 +1,6 @@
 # Streaker (React + Express + SQLite)
 
-Small full-stack demo that tracks a daily streak.
+Full-stack that tracks a daily streak.
 
 - **Client:** React (Vite)
 - **API:** Express
