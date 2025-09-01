@@ -1,0 +1,29 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+npm-debug.log*
+pnpm-debug.log*
+yarn-error.log*
+
+# Vite / builds / coverage
+dist/
+.vite/
+coverage/
+
+# Local env files
+.env
+.env.*
+!client/.env.example
+!server/.env.example
+
+# SQLite databases
+*.db
+*.db-shm
+*.db-wal
+
+# IDE
+.vscode/
+.idea/
